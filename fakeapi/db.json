@@ -1,0 +1,295 @@
+{
+    "cars":
+    [
+        {
+            "name": "Audi RS7",
+            "color": "Nardo Gray",
+            "body": "Sportback",
+            "year": "2022"
+        },
+        {
+            "name": "Mercedes-Benz E-Class",
+            "color": "Iridium Silver",
+            "body": "Sedan",
+            "year": "2023"
+        },
+        {
+            "name": "Porsche 911",
+            "color": "Carrara White",
+            "body": "Coupe",
+            "year": "2021"
+        },
+        {
+            "name": "Tesla Model S",
+            "color": "Midnight Silver",
+            "body": "Sedan",
+            "year": "2022"
+        },
+        {
+            "name": "Jaguar F-Type",
+            "color": "British Racing Green",
+            "body": "Coupe",
+            "year": "2023"
+        },
+        {
+            "name": "BMW X5",
+            "color": "Alpine White",
+            "body": "SUV",
+            "year": "2021"
+        },
+        {
+            "name": "Lexus LC 500",
+            "color": "Eminent White Pearl",
+            "body": "Coupe",
+            "year": "2022"
+        },
+        {
+            "name": "Chevrolet Corvette",
+            "color": "Torch Red",
+            "body": "Coupe",
+            "year": "2023"
+        },
+        {
+            "name": "Ford Mustang",
+            "color": "Rapid Red",
+            "body": "Coupe",
+            "year": "2022"
+        },
+        {
+            "name": "Volkswagen Golf GTI",
+            "color": "Pure White",
+            "body": "Hatchback",
+            "year": "2023"
+        },
+        {
+            "name": "Acura NSX",
+            "color": "Curva Red",
+            "body": "Coupe",
+            "year": "2022"
+        },
+        {
+            "name": "Alfa Romeo Giulia Quadrifoglio",
+            "color": "Rosso Alfa",
+            "body": "Sedan",
+            "year": "2023"
+        },
+    
+        {
+            "name": "BMW M3",
+            "color": "Donington Grey",
+            "body": "Sedan",
+            "year": "2019"
+        },
+        {
+            "name": "Audi A6",
+            "color": "Mythos Black",
+            "body": "Sedan",
+            "year": "2018"
+        },
+        {
+            "name": "Mercedes-Benz C-Class",
+            "color": "Obsidian Black",
+            "body": "Sedan",
+            "year": "2017"
+        },
+        {
+            "name": "Jaguar XE",
+            "color": "Santorini Black",
+            "body": "Sedan",
+            "year": "2018"
+        },
+        {
+            "name": "Porsche Panamera",
+            "color": "Night Blue Metallic",
+            "body": "Sedan",
+            "year": "2019"
+        },
+        {
+            "name": "Tesla Model X",
+            "color": "Pearl White Multi-Coat",
+            "body": "SUV",
+            "year": "2018"
+        },
+        {
+            "name": "Lexus RX 350",
+            "color": "Caviar",
+            "body": "SUV",
+            "year": "2017"
+        },
+        {
+            "name": "Ford F-150",
+            "color": "Blue Jeans",
+            "body": "Truck",
+            "year": "2019"
+        },
+        {
+            "name": "Chevrolet Camaro",
+            "color": "Hyper Blue",
+            "body": "Coupe",
+            "year": "2017"
+        },
+        {
+            "name": "Subaru Outback",
+            "color": "Crystal White Pearl",
+            "body": "Wagon",
+            "year": "2018"
+        },
+        {
+            "name": "Nissan Altima",
+            "color": "Gun Metallic",
+            "body": "Sedan",
+            "year": "2019"
+        },
+        {
+            "name": "Mazda CX-5",
+            "color": "Soul Red Crystal",
+            "body": "SUV",
+            "year": "2018"
+        },
+    
+        {
+            "name": "Honda Accord",
+            "color": "Alabaster Silver",
+            "body": "Sedan",
+            "year": "2012"
+        },
+        {
+            "name": "Toyota Camry",
+            "color": "Barcelona Red",
+            "body": "Sedan",
+            "year": "2011"
+        },
+        {
+            "name": "Ford Explorer",
+            "color": "Ingot Silver",
+            "body": "SUV",
+            "year": "2012"
+        },
+        {
+            "name": "Chevrolet Silverado",
+            "color": "Summit White",
+            "body": "Truck",
+            "year": "2013"
+        },
+        {
+            "name": "BMW 328i",
+            "color": "Space Gray",
+            "body": "Sedan",
+            "year": "2011"
+        },
+        {
+            "name": "Audi Q5",
+            "color": "Ibis White",
+            "body": "SUV",
+            "year": "2013"
+        },
+        {
+            "name": "Subaru Legacy",
+            "color": "Sky Blue",
+            "body": "Sedan",
+            "year": "2012"
+        },
+        {
+            "name": "Hyundai Sonata",
+            "color": "Phantom Black",
+            "body": "Sedan",
+            "year": "2013"
+        },
+        {
+            "name": "Kia Sorento",
+            "color": "Ebony Black",
+            "body": "SUV",
+            "year": "2013"
+        },
+        {
+            "name": "Volkswagen Passat",
+            "color": "Platinum Gray",
+            "body": "Sedan",
+            "year": "2013"
+        },
+        {
+            "name": "Mazda3",
+            "color": "Meteor Gray",
+            "body": "Sedan",
+            "year": "2011"
+        },
+        {
+            "name": "Land Rover Range Rover",
+            "color": "Loire Blue",
+            "body": "SUV",
+            "year": "2011"
+        },
+        {
+            "name": "Audi RS5",
+            "color": "Nardo Grey",
+            "body": "Coupe",
+            "year": "2015"
+        },
+        {
+            "name": "Mercedes-Benz E-Class",
+            "color": "Obsidian Black",
+            "body": "Sedan",
+            "year": "2016"
+        },
+        {
+            "name": "Porsche 911 Carrera",
+            "color": "Guards Red",
+            "body": "Coupe",
+            "year": "2017"
+        },
+        {
+            "name": "Tesla Model S",
+            "color": "Midnight Silver",
+            "body": "Sedan",
+            "year": "2016"
+        },
+        {
+            "name": "BMW M3",
+            "color": "Sao Paulo Yellow",
+            "body": "Sedan",
+            "year": "2017"
+        },
+        {
+            "name": "Ford Mustang GT",
+            "color": "Race Red",
+            "body": "Coupe",
+            "year": "2015"
+        },
+        {
+            "name": "Chevrolet Camaro ZL1",
+            "color": "Hyper Blue",
+            "body": "Coupe",
+            "year": "2017"
+        },
+        {
+            "name": "Jaguar F-Type",
+            "color": "British Racing Green",
+            "body": "Coupe",
+            "year": "2016"
+        },
+        {
+            "name": "Nissan GT-R",
+            "color": "Gun Metallic",
+            "body": "Coupe",
+            "year": "2013"
+        },
+        {
+            "name": "Subaru WRX STI",
+            "color": "World Rally Blue",
+            "body": "Sedan",
+            "year": "2012"
+        },
+        {
+            "name": "BMW Z4",
+            "color": "Sapphire Black",
+            "body": "Convertible",
+            "year": "2010"
+        },
+        {
+            "name": "Honda Civic Type R",
+            "color": "Rallye Red",
+            "body": "Hatchback",
+            "year": "2009"
+        }
+    ]        
+}

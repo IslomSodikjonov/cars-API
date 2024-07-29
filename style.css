@@ -1,0 +1,120 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #FFFFFF;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.title {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 59px;
+    text-align: center;
+    color: #000000;
+    margin-top: 35px;
+    margin-bottom: 30px;
+}
+
+.title_less {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 28px;
+    line-height: 30px;
+    text-align: center;
+    color: #000000;
+}
+
+.mainbox {
+    display: grid;
+    grid-template-columns: repeat(4, 282px);
+    justify-content: center;
+    gap: 24px 24px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.car_box {
+    width: 282px;
+    height: 205px;
+    background: #F0F0F0;
+    border: 1px solid #007FFF;
+    border-radius: 10px;
+    padding: 20px 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: start;
+}
+
+.name {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.car_info p {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 18px;
+    color: rgba(0, 0, 0, 0.55);
+}
+
+.more {
+    width: 232px;
+    height: 42px;
+    background: #0071E3;
+    border-radius: 4px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #FFFFFF;
+    border: none;
+}
+
+button {
+    cursor: pointer;
+}
+
+button:hover {
+    scale: 1.05;
+}
+
+button:active {
+    scale: 0.95;
+}
+
+.all {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 17px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #0071E3;
+    cursor: pointer;
+}
+
+.center_link {
+    text-align: center;
+    margin-bottom: 60px;
+}
